@@ -23,6 +23,7 @@ let div = document.querySelector('div')
 
 
 // ugh ! not very DRY...,  I wish i could use forEach Method
+// pull test 
 
 
 button[0].addEventListener('click',
