@@ -22,7 +22,7 @@ let div = document.querySelector('div')
 ///button= [button button button button ]
 
 
-// if 
+// ugh ! not very DRY...,  I wish i could use forEach Method
 
 
 button[0].addEventListener('click',
