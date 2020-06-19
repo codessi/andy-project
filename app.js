@@ -1,6 +1,8 @@
 let button = document.querySelectorAll('button')
 let div = document.querySelector('div')
 
+
+
 /* button.forEach((button) => {
     button.addEventListener('click',
         () => {
@@ -15,7 +17,7 @@ let div = document.querySelector('div')
     console.log(button[0].textContent)
 } */
 
-//when button[0] is clicked  take words from there (how)  then paste in on  click  when button is click how do do i know which button ... show the button[0]  tell me it's not loop. button indicator...show button how do i show button click clickfire the button name show number for
+
 
 ///button= [button button button button ]
 
