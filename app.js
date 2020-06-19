@@ -20,7 +20,7 @@ let div = document.querySelector('div')
 ///button= [button button button button ]
 
 
-// if 
+// ugh ! not very DRY...  
 
 
 button[0].addEventListener('click',
