@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+button {
+    display: inline-block;
+    transition: ease-in-out 400ms;
+    background-color: white;
+    border-style: solid;
+    margin: 30px;
+    padding: 7px 30px;
+    border-radius: 3px;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
